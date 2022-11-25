@@ -1,0 +1,16 @@
+{
+  "name": "projeto_final_bootstrap",
+  "version": "1.0.0",
+  "description": "Falcon 9 page project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/index.scss:css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.56.1"
+  }
+}
